@@ -7,5 +7,5 @@ title: "Wolfram Mathematica scripts for the paper Short-Rate Derivatives in a Hi
 version: 1.0.0
 identifiers:
   - type: url
-    https://github.com/zhenyatos/higher-for-longer
+    value: https://github.com/zhenyatos/higher-for-longer
 date-released: 2025-09-21
